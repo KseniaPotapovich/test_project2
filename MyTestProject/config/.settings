@@ -1,0 +1,19 @@
+{
+    "username": "kseniya.potapovich@sf-developer.vrp", 
+    "environment": "production", 
+    "project_name": "MyTestProject", 
+    "workspace": "D:\\Sublime", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "TFGLY2BE58ASL3NPG0Q1D5MVB3ZDODSE", 
+    "metadata_container": "1dc28000000S5BcAAK", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
